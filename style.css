@@ -1,0 +1,23 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: burlywood;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 64px;
+    color: cadetblue;
+    margin: 0;
+    text-align: center;
+}
+
+.li-links {
+    display: inline-block;
+    padding: 16px;
+    margin: 3px;
+    border: 2px solid royalblue;
+}
+
+.links {
+    text-align: center;
+}
